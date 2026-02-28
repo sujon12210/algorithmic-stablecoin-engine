@@ -1,0 +1,12 @@
+{
+  "name": "algorithmic-stablecoin-engine",
+  "version": "1.0.0",
+  "description": "Seigniorage-based Algorithmic Stablecoin Implementation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "scripts": {
+    "compile": "hardhat compile"
+  }
+}
